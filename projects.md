@@ -1,6 +1,6 @@
 ## Projects
 ### Soliatre
-![Soliatre](Soliatre.png =250x250)
-
+![Soliatre](Soliatre.png)
+<img src="Soliatre.png" width="250">
 This is a version of Solitaire is one I made in Java last year.
 
