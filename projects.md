@@ -5,4 +5,4 @@ This is a version of Solitaire is one I made in Java last year.
 If you know how to play Solitaire then you know how to play this as it is almost identical to any other game of Solitaire
 Bouncing Cards included.
 
-[Link to Code](https://github.com/SealDoGaming/Soliatre)
+[Link to the Code](https://github.com/SealDoGaming/Soliatre)
