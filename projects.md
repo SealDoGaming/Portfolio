@@ -1,6 +1,6 @@
 ## Projects
 ### Soliatre
-<img src="Soliatre.png" width="250">
+<img src="Soliatre.png" width="400">
 #### Description
 This is a version of Solitaire is one I made in Java last year.
 If you know how to play Solitaire then you know how to play this as it is almost identical to any other game of Solitaire
