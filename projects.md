@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Projects"
 permalink: /Projects/
+---
 ## Projects
 ### Soliatre
 <img src="Soliatre.png" width="250">
