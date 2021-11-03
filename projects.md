@@ -1,8 +1,3 @@
----
-theme: jekyll-theme-cayman
-title: "Projects"
-permalink: /Projects/
----
 ## Projects
 ### Soliatre
 <img src="Soliatre.png" width="250">
