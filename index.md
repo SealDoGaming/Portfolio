@@ -1,5 +1,3 @@
-{% include nav.html}
-## Brady Emmelhainz Portfolio Site
 
 You can use the [editor on GitHub](https://github.com/SealDoGaming/super-waddle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
