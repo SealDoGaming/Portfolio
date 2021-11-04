@@ -1,7 +1,7 @@
 
 ---
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "Projects"
+permalink: /Projects/
 
 ---
 
