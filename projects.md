@@ -19,10 +19,7 @@ Bouncing Cards included.
 
 ### Dog Game Remasterized Edition Deluxe
 
-<video src="Assets/Dog-Game-HD-Remasterized-Edition-Deluxe.ogg" controls="controls" style="max-width: 730px;">
-</video>
-
-
+![A Screenshot of Dog Game Remasterized Edition Deluxe](Assets/DogGameRemasterized.gif)
 
 #### Description
 This was the result of me remaking a little game I made when I first learned how to code. This was my first real big project I worked on and has many big features such as...
