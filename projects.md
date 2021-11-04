@@ -2,7 +2,6 @@
 ---
 title: "Projects"
 permalink: /Projects/
-
 ---
 
 ## Projects
