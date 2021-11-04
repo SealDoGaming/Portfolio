@@ -1,7 +1,7 @@
 
 <p style="text-align: center; background-color: white;">
   <a href="{{site.baseurl}}/">Home</a> |
-  <a href="{{site.baseurl}}/admin/">Projects</a> | 
+  <a href="{{site.baseurl}}/Projects/">Projects</a> | 
   <a href="{{site.baseurl}}/">Home again</a> | 
   <a href="{{site.baseurl}}/">Home once more</a>
 </p>
