@@ -1,3 +1,10 @@
+
+---
+title: "PAGE TITLE"
+permalink: /URL-PATH/
+
+---
+
 ## Projects
 ### Soliatre
 <img src="Soliatre.png" width="400">
