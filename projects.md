@@ -9,7 +9,7 @@ permalink: /Projects/
 
 <img src="{{site.baseurl}} ">
 
-![](/soliatre.png)
+![](Soliatre.png)
 
 #### Description
 This is a version of Solitaire is one I made in Java last year.
