@@ -6,7 +6,11 @@ permalink: /Projects/
 
 ## Projects
 ### Soliatre
-![](Soliatre.png)
+
+<img src="{{site.baseurl}} ">
+
+![](/soliatre.png)
+
 #### Description
 This is a version of Solitaire is one I made in Java last year.
 If you know how to play Solitaire then you know how to play this as it is almost identical to any other game of Solitaire
