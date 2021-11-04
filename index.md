@@ -19,7 +19,5 @@ I like programming and problem solving. I have been learning programming for abo
 - C++
 - Swift
 
-### Links
 
-[Projects](projects.md)
 
