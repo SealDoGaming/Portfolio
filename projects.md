@@ -7,8 +7,6 @@ permalink: /Projects/
 ## Projects
 ### Soliatre
 
-<img src="{{site.baseurl}} ">
-
 ![](Soliatre.png)
 
 #### Description
