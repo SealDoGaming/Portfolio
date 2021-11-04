@@ -19,7 +19,8 @@ Bouncing Cards included.
 
 ### Dog Game Remasterized Edition Deluxe
 
-![A Screenshot of Soliatre](/Assets/Soliatre.png)
+<video src="Assets/Dog Game HD Remasterized Edition Deluxe 2021-11-04 13-42-39.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 #### Description
 This was the result of me remaking a little game I made when I first learned how to code. This was my first real big project I worked on and has many big features such as...
