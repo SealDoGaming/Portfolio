@@ -19,13 +19,9 @@ Bouncing Cards included.
 
 ### Dog Game Remasterized Edition Deluxe
 
- <video width="320" height="240" controls>
-  <source src="Assets/Dog Game HD Remasterized Edition Deluxe 2021-11-04 13-42-39.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-
-<video src="Assets/Dog Game HD Remasterized Edition Deluxe 2021-11-04 13-42-39.mp4" controls="controls" style="max-width: 730px;">
+<video src="Assets/Dog-Game-HD-Remasterized-Edition-Deluxe.ogg" controls="controls" style="max-width: 730px;">
 </video>
+
 
 
 #### Description
