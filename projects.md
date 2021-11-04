@@ -4,8 +4,7 @@ title: "Projects"
 permalink: /Projects/
 ---
 
-## Projects
-The ones I am willing to share atleast
+## Completed Projects
 
 ### Soliatre
 
