@@ -5,6 +5,8 @@ permalink: /Projects/
 ---
 
 ## Projects
+The ones I am willing to share atleast
+
 ### Soliatre
 
 ![A Screenshot of Soliatre](/Assets/Soliatre.png)
