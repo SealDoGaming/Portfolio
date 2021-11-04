@@ -24,6 +24,8 @@ Bouncing Cards included.
 
 [Link to the Code](https://github.com/SealDoGaming/Soliatre)
 
+## Incomplete Projects
+
 ### Dog Game Remasterized Edition Deluxe
 
 ![A Screenshot of Dog Game Remasterized Edition Deluxe](Assets/DogGameRemasterized.gif)
